@@ -1,0 +1,1 @@
+# Obscure-cheats-no-cooldown
